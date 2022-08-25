@@ -1,0 +1,12 @@
+C:\Users\Alex\source\repos\FigureTest\Figure\bin\Debug\Figure.dll
+C:\Users\Alex\source\repos\FigureTest\Figure\bin\Debug\Figure.pdb
+C:\Users\Alex\source\repos\FigureTest\Figure\obj\Debug\FigureLib.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\FigureTest\Figure\obj\Debug\Figure.dll
+C:\Users\Alex\source\repos\FigureTest\Figure\obj\Debug\Figure.pdb
+C:\Users\Alex\source\repos\FigureTest\Figure\obj\Debug\FigureLib.csprojAssemblyReference.cache
+C:\Users\Alex\source\repos\Figure\Figure\bin\Debug\Figure.dll
+C:\Users\Alex\source\repos\Figure\Figure\bin\Debug\Figure.pdb
+C:\Users\Alex\source\repos\Figure\Figure\obj\Debug\FigureLib.csprojAssemblyReference.cache
+C:\Users\Alex\source\repos\Figure\Figure\obj\Debug\FigureLib.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\Figure\Figure\obj\Debug\Figure.dll
+C:\Users\Alex\source\repos\Figure\Figure\obj\Debug\Figure.pdb

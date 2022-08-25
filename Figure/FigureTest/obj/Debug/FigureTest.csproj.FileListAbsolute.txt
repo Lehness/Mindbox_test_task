@@ -1,0 +1,10 @@
+C:\Users\Alex\source\repos\FigureTest\FigureTest\obj\Debug\FigureTest.csprojAssemblyReference.cache
+C:\Users\Alex\source\repos\FigureTest\FigureTest\obj\Debug\FigureTest.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\FigureTest\FigureTest\bin\Debug\FigureTest.exe.config
+C:\Users\Alex\source\repos\FigureTest\FigureTest\bin\Debug\FigureTest.exe
+C:\Users\Alex\source\repos\FigureTest\FigureTest\bin\Debug\FigureTest.pdb
+C:\Users\Alex\source\repos\FigureTest\FigureTest\bin\Debug\Figure.dll
+C:\Users\Alex\source\repos\FigureTest\FigureTest\bin\Debug\Figure.pdb
+C:\Users\Alex\source\repos\FigureTest\FigureTest\obj\Debug\FigureTest.csproj.CopyComplete
+C:\Users\Alex\source\repos\FigureTest\FigureTest\obj\Debug\FigureTest.exe
+C:\Users\Alex\source\repos\FigureTest\FigureTest\obj\Debug\FigureTest.pdb
